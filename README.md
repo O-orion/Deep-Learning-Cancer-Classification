@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Este projeto utiliza técnicas de Deep Learning para classificar tumores em benignos ou malignos, utilizando uma base de dados específica de câncer. O objetivo é auxiliar na análise médica e no diagnóstico precoce, contribuindo para a eficácia no tratamento e acompanhamento dos pacientes.
+Este projeto utiliza técnicas de Deep Learning para classificar tumores em benignos ou malignos, utilizando uma base de dados específica de câncer.
 
 ## Tecnologias Utilizadas
 
